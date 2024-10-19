@@ -27,6 +27,15 @@
 - **Languages:** C, C++, Python
 - **Projects:** Started with basic console applications, understanding fundamental programming concepts, data structures, and algorithms.
 
+## 🌐 Full-Stack Web Development
+
+- **Languages & Tools:** JavaScript, React, Node.js, MongoDB, WebSocket, Python, Django, APIs
+- **Key Projects:**
+  - **[Mentor Match](https://github.com/aniket7r/mentorMatch):** Developed a mentorship and networking platform using JavaScript, React, and MongoDB. Integrated WebSocket for real-time communication and implemented a custom matching algorithm for effective user pairing.
+  - **[Digital Transaction](https://github.com/aniket7r/Digital-Transaction):** Created an online money transaction system with robust database features ensuring data integrity and seamless transfers.
+  - **[International Space Station Tracker](https://github.com/aniket7r/ISS-Tracker):** Built a Django-based website for tracking the ISS's real-time location and sunrise/sunset times, with automated email notifications for users.
+  - **[Moonlight](https://github.com/aniket7r/moonlight):** Designed a platform for university students to connect anonymously for stress and suicide prevention, utilizing JavaScript, React, and WebSocket for secure communication.
+
 ## 🐍 Python Development
 
 - **Languages & Tools:** Python, Selenium, APIs, Machine Learning, NLP Libraries, OpenCV, Django
@@ -37,15 +46,6 @@
   - **Natural Language Processing:** Developed "Modern Upanishad," an educational storytelling platform.
   - **Computer Vision:** Completed coursework in image processing and analysis.
   - **Web Development:** Created a real-time ISS tracking website using Django. 
-
-## 🌐 Full-Stack Web Development
-
-- **Languages & Tools:** JavaScript, React, Node.js, MongoDB, WebSocket, Python, Django, APIs
-- **Key Projects:**
-  - **[Mentor Match](https://github.com/aniket7r/mentorMatch):** Developed a mentorship and networking platform using JavaScript, React, and MongoDB. Integrated WebSocket for real-time communication and implemented a custom matching algorithm for effective user pairing.
-  - **[Digital Transaction](https://github.com/aniket7r/Digital-Transaction):** Created an online money transaction system with robust database features ensuring data integrity and seamless transfers.
-  - **[International Space Station Tracker](https://github.com/aniket7r/ISS-Tracker):** Built a Django-based website for tracking the ISS's real-time location and sunrise/sunset times, with automated email notifications for users.
-  - **[Moonlight](https://github.com/aniket7r/moonlight):** Designed a platform for university students to connect anonymously for stress and suicide prevention, utilizing JavaScript, React, and WebSocket for secure communication.
 
 ## 💻 Blockchain Development
 
