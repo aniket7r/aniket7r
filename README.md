@@ -6,14 +6,13 @@
 ![Learning](https://img.shields.io/badge/Learning-Continuous-informational?style=for-the-badge&logo=udemy)
 
 ---
-Developing
-# Welcome to My GitHub Profile! 👋
+## Stats
 
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aniket7r&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniket7r&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniket7r&theme=radical&exclude=Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
