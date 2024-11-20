@@ -9,11 +9,11 @@
 Developing
 # Welcome to My GitHub Profile! 👋
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aniket7r&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniket7r&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
