@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aniket7r&theme=radical&row=1&column=3&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
+<!---
 ## 🛠️ Skills
 
 - **Programming Languages:**  C, C++, Python, JavaScript
@@ -29,12 +29,14 @@
 - **Tools & Technologies:** Git, Docker, WebSocket, APIs
 
 ---
+-->
 
 # Aniket's Programming Journey 🚀
-
+<!--
 ## 🌱 Early Learning
 - **Languages:** C, C++, Python
 - **Projects:** Started with basic console applications, understanding fundamental programming concepts, data structures, and algorithms.
+-->
 
 ## 🌐 Full-Stack Web Development
 
