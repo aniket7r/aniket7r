@@ -8,7 +8,7 @@
 ---
 ## Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&theme=radical)
+<!-- ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&theme=radical)   -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aniket7r&theme=radical)](https://git.io/streak-stats)
 
