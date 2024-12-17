@@ -6,6 +6,7 @@
 ![Learning](https://img.shields.io/badge/Learning-Continuous-informational?style=for-the-badge&logo=udemy)
 
 ---
+<!--
  ## Stats
 
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&theme=radical)
