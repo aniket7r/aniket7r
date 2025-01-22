@@ -10,7 +10,7 @@
 
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aniket7r&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aniket7r&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aniket7r&theme=radical&row=1&column=3&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
