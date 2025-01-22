@@ -38,7 +38,7 @@
 - **Languages:** C, C++, Python
 - **Projects:** Started with basic console applications, understanding fundamental programming concepts, data structures, and algorithms.
 -->
-
+<!--
 ## 🌐 Full-Stack Web Development
 
 - **Languages & Tools:** JavaScript, React, Node.js, MongoDB, WebSocket, Python, Django, APIs
@@ -69,7 +69,7 @@
   - **[Automated Market Maker](https://github.com/aniket7r/Automated-Market-Maker):** Developed using C++ for blockchain asset management.
 
 ---
-
+-->
 ## Connect with Me
 - **[LinkedIn](https://linkedin.com/in/aniket)**
 - **[Gmail](mailto:aniketkumar6256@gmail.com)**
