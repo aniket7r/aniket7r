@@ -73,10 +73,12 @@
 - **[LinkedIn](https://linkedin.com/in/aniket)**
 - **[Gmail](mailto:aniketkumar6256@gmail.com)**
 
-
+<!--
 [![Aniket's Trophies](https://github-profile-trophy.vercel.app/?username=aniket7r)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket7r&show_icons=true&locale=en&layout=compact" alt="aniket7r" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket7r&show_icons=true&locale=en" alt="aniket7r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket7r&" alt="aniket7r" /></p>
+
+-->
