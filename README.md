@@ -1,4 +1,4 @@
-<!--
+
 # 🚀 My Programming Journey
 
 ![Programming](https://img.shields.io/badge/Code-Life-blue?style=for-the-badge&logo=visual-studio-code) 
@@ -67,10 +67,6 @@
 
 ---
 -->
-
-<picture>
-  <img src="/github-metrics.svg" />
-</picture>
 
 
 ## Connect with Me
