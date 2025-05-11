@@ -1,5 +1,5 @@
 
-# 🚀 My Programming Journey
+<!---# 🚀 My Programming Journey--->
 
 ![Programming](https://img.shields.io/badge/Code-Life-blue?style=for-the-badge&logo=visual-studio-code) 
 ![Blockchain](https://img.shields.io/badge/Blockchain-Future-brightgreen?style=for-the-badge&logo=ethereum)
