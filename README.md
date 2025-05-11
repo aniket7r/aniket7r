@@ -68,10 +68,10 @@
 ---
 -->
 
-
+<!---
 ## Connect with Me
 - **[LinkedIn](https://linkedin.com/in/aniket)**
-- **[Gmail](mailto:aniketkumar6256@gmail.com)**
+- **[Gmail](mailto:aniketkumar6256@gmail.com)**-->
 
 <!--
 [![Aniket's Trophies](https://github-profile-trophy.vercel.app/?username=aniket7r)](https://github.com/ryo-ma/github-profile-trophy)
