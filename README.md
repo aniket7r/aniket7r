@@ -2,7 +2,7 @@
 <!---# 🚀 My Programming Journey--->
 
 ![Programming](https://img.shields.io/badge/Code-Life-blue?style=for-the-badge&logo=visual-studio-code) 
-![Blockchain](https://img.shields.io/badge/Blockchain-Future-brightgreen?style=for-the-badge&logo=ethereum)
+![AI](https://img.shields.io/badge/Blockchain-Future-brightgreen?style=for-the-badge&logo=ethereum)
 ![Hackathons](https://img.shields.io/badge/Hackathons-Challenging-orange?style=for-the-badge&logo=hack-the-box)
 ![Learning](https://img.shields.io/badge/Learning-Continuous-informational?style=for-the-badge&logo=udemy)
 ---
